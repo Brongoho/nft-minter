@@ -1,2 +1,1 @@
-# nft-minter
-The NFT Minter Project with pkp keys
+# multAuth minting of nfts
